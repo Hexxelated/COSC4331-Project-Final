@@ -17,10 +17,10 @@ This is part of a project me and a partner did for our Real Time Systems course.
 
 ## How to use the files
 ### `STR_SUMO_win.py` & `target_vehicles_generation_protocols_win.py`
-After downloading STR-SUMO, place these 2 files in the `core` directory
+After downloading STR-SUMO, place these 2 files in the `core` directory (if you are using Windows).
 
 ### `AstarController.py`
-After downloading STR-SUMO, place this file in the `controller` directory
+After downloading STR-SUMO, place this file in the `controller` directory.
 
 ### `experiment.py`
 After downloading STR-SUMO, place this file in the root of the repository.
