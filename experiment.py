@@ -1,8 +1,5 @@
 '''
-This test script needs the following files:
-STR_SUMO.py, RouteController.py, Util.py, test.net.xml, test.rou.xml, myconfig.sumocfg and corresponding SUMO libraries.
-
-If you are using Windows, you may need the Windows versions of STR_SUMO.py and target_vehicles_generation_protocols.py
+If you are using Windows, you may need to use the Windows versions of STR_SUMO.py and target_vehicles_generation_protocols.py
 	with '_win' appended to their filenames.
 '''
 
