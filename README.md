@@ -9,7 +9,7 @@ This is part of a project me and a partner did for our Real Time Systems course.
 
 
 ## Prerequisites
-1. Download/install Python (Python 3 is recommended)
+1. Download/install [Python](https://www.python.org/downloads/) (Python 3 is recommended)
 2. Download and install [SUMO](https://sumo.dlr.de/docs/Installing/index.html)
    - Make sure you properly configure the `SUMO_HOME` environment variable
 3. Download [STR-SUMO](https://github.com/DDeChoU/Selfless-Traffic-Routing-Testbed)
